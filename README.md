@@ -25,7 +25,7 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/careumz.git
+git clone https://github.com/Careumz-AI/Tech-solution/careumz.git
 cd careumz
 ```
 
